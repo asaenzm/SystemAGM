@@ -1,0 +1,206 @@
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarProveedores.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Juan\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Juan\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Juan\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\iosched-master\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\Capa de Presentacion\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb

@@ -1,0 +1,26 @@
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
