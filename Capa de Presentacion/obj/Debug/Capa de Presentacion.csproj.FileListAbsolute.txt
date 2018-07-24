@@ -204,3 +204,33 @@ C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Prese
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CopyComplete
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmFactura.resources

@@ -51,3 +51,12 @@ C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaLogicaNeg
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Alejandro\Desktop\SystemAGM\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb

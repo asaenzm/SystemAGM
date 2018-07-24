@@ -125,10 +125,11 @@
             // txtDni
             // 
             this.txtDni.Location = new System.Drawing.Point(14, 24);
-            this.txtDni.MaxLength = 8;
+            this.txtDni.MaxLength = 12;
             this.txtDni.Name = "txtDni";
             this.txtDni.Size = new System.Drawing.Size(298, 21);
             this.txtDni.TabIndex = 3;
+            this.txtDni.TextChanged += new System.EventHandler(this.txtDni_TextChanged);
             // 
             // label2
             // 

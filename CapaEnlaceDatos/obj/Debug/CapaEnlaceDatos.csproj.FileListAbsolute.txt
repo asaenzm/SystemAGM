@@ -24,3 +24,9 @@ C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDat
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
 C:\Users\Alejandro\Desktop\Sistema de Ventas AGM\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
