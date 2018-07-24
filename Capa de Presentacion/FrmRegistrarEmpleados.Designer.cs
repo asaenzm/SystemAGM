@@ -60,9 +60,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(161, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 16);
+            this.label1.Size = new System.Drawing.Size(51, 16);
             this.label1.TabIndex = 0;
-            this.label1.Text = "D.N.I";
+            this.label1.Text = "Cedula";
             // 
             // groupBox1
             // 
@@ -128,7 +128,7 @@
             // 
             this.txtDireccion.Location = new System.Drawing.Point(113, 83);
             this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(270, 21);
+            this.txtDireccion.Size = new System.Drawing.Size(391, 21);
             this.txtDireccion.TabIndex = 16;
             // 
             // label8
@@ -184,7 +184,7 @@
             // rbnFemenino
             // 
             this.rbnFemenino.AutoSize = true;
-            this.rbnFemenino.Location = new System.Drawing.Point(524, 83);
+            this.rbnFemenino.Location = new System.Drawing.Point(640, 83);
             this.rbnFemenino.Name = "rbnFemenino";
             this.rbnFemenino.Size = new System.Drawing.Size(86, 20);
             this.rbnFemenino.TabIndex = 10;
@@ -195,7 +195,7 @@
             // 
             this.rbnMasculino.AutoSize = true;
             this.rbnMasculino.Checked = true;
-            this.rbnMasculino.Location = new System.Drawing.Point(442, 83);
+            this.rbnMasculino.Location = new System.Drawing.Point(558, 83);
             this.rbnMasculino.Name = "rbnMasculino";
             this.rbnMasculino.Size = new System.Drawing.Size(87, 20);
             this.rbnMasculino.TabIndex = 9;
@@ -206,7 +206,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(394, 86);
+            this.label5.Location = new System.Drawing.Point(510, 86);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(42, 16);
             this.label5.TabIndex = 8;
@@ -266,7 +266,7 @@
             // txtDni
             // 
             this.txtDni.Location = new System.Drawing.Point(164, 35);
-            this.txtDni.MaxLength = 8;
+            this.txtDni.MaxLength = 100;
             this.txtDni.Name = "txtDni";
             this.txtDni.Size = new System.Drawing.Size(129, 21);
             this.txtDni.TabIndex = 1;

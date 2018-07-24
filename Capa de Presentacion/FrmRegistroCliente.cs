@@ -112,5 +112,10 @@ namespace Capa_de_Presentacion
         {
             txtDni.Focus();
         }
+
+        private void txtDni_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

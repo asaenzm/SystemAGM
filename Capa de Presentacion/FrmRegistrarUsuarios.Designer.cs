@@ -93,9 +93,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(21, 66);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 16);
+            this.label3.Size = new System.Drawing.Size(51, 16);
             this.label3.TabIndex = 4;
-            this.label3.Text = "D.N.I :";
+            this.label3.Text = "Cedula";
             // 
             // label2
             // 
@@ -137,7 +137,7 @@
             this.btnGrabar.Name = "btnGrabar";
             this.btnGrabar.Size = new System.Drawing.Size(75, 27);
             this.btnGrabar.TabIndex = 4;
-            this.btnGrabar.Text = "&Grabar";
+            this.btnGrabar.Text = "&Guardar";
             this.btnGrabar.UseVisualStyleBackColor = true;
             this.btnGrabar.Click += new System.EventHandler(this.btnGrabar_Click);
             // 
