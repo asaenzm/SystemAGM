@@ -92,5 +92,15 @@ namespace Capa_de_Presentacion
                 Program.NombreEmpleadoLogueado = row[1].ToString();
             }
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
