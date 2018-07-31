@@ -248,7 +248,7 @@
             this.groupBox4.Size = new System.Drawing.Size(624, 92);
             this.groupBox4.TabIndex = 28;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Producto";
+            this.groupBox4.Text = "+";
             // 
             // txtIgv
             // 
