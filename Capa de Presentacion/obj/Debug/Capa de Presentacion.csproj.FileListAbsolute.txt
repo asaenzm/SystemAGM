@@ -234,3 +234,32 @@ C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Pres
 C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
 C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
 C:\Users\Alejandro\Desktop\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmFactura.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csprojAssemblyReference.cache
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmFactura.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa_de_Presentacion.Properties.Resources.resources
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.exe
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe.config
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.exe
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\Capa de Presentacion.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\Capa de Presentacion\obj\Debug\Capa de Presentacion.csproj.CopyComplete

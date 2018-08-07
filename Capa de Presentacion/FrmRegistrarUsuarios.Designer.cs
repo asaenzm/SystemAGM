@@ -54,6 +54,7 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(464, 100);
@@ -63,6 +64,7 @@
             // 
             // lblDni
             // 
+            this.lblDni.BackColor = System.Drawing.Color.White;
             this.lblDni.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblDni.Location = new System.Drawing.Point(70, 63);
             this.lblDni.Name = "lblDni";
@@ -72,6 +74,7 @@
             // 
             // lblCargo
             // 
+            this.lblCargo.BackColor = System.Drawing.Color.White;
             this.lblCargo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblCargo.Location = new System.Drawing.Point(273, 65);
             this.lblCargo.Name = "lblCargo";
@@ -81,6 +84,7 @@
             // 
             // lblEmpleado
             // 
+            this.lblEmpleado.BackColor = System.Drawing.Color.White;
             this.lblEmpleado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblEmpleado.Location = new System.Drawing.Point(163, 30);
             this.lblEmpleado.Name = "lblEmpleado";
@@ -123,6 +127,7 @@
             this.groupBox2.Controls.Add(this.txtUser);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.groupBox2.Location = new System.Drawing.Point(482, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(464, 100);
@@ -133,12 +138,15 @@
             // 
             // btnGrabar
             // 
+            this.btnGrabar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(200)))), ((int)(((byte)(49)))));
+            this.btnGrabar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGrabar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnGrabar.Location = new System.Drawing.Point(375, 44);
             this.btnGrabar.Name = "btnGrabar";
             this.btnGrabar.Size = new System.Drawing.Size(75, 27);
             this.btnGrabar.TabIndex = 4;
             this.btnGrabar.Text = "&Guardar";
-            this.btnGrabar.UseVisualStyleBackColor = true;
+            this.btnGrabar.UseVisualStyleBackColor = false;
             this.btnGrabar.Click += new System.EventHandler(this.btnGrabar_Click);
             // 
             // txtPassword
@@ -178,12 +186,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.AppWorkspace;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(52)))), ((int)(((byte)(52)))));
             this.ClientSize = new System.Drawing.Size(956, 120);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.DoubleBuffered = true;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "FrmRegistrarUsuarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
