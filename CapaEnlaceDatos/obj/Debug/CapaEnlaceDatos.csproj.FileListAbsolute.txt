@@ -30,3 +30,9 @@ C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.c
 C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
 C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
 C:\Users\Alejandro\Desktop\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojAssemblyReference.cache
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Gustavo Poveda\Source\Repos\SystemAGM\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
