@@ -87,5 +87,15 @@ namespace Capa_de_Presentacion
         {
 
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblUsuario_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
