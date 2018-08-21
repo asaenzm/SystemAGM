@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btnBuscarFactura = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -78,6 +78,9 @@
             this.lblNroCorrelativo = new System.Windows.Forms.Label();
             this.lblSerie = new System.Windows.Forms.Label();
             this.lblTipo = new System.Windows.Forms.Label();
+            this.btn_Exit = new System.Windows.Forms.Button();
+            this.btn_minimo = new System.Windows.Forms.Button();
+            this.btn_Max = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox4.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -205,9 +208,9 @@
             // 
             // Column4
             // 
-            dataGridViewCellStyle1.Format = "C2";
-            dataGridViewCellStyle1.NullValue = null;
-            this.Column4.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Format = "C2";
+            dataGridViewCellStyle5.NullValue = null;
+            this.Column4.DefaultCellStyle = dataGridViewCellStyle5;
             this.Column4.HeaderText = "P. UNIT.";
             this.Column4.Name = "Column4";
             this.Column4.ReadOnly = true;
@@ -215,9 +218,9 @@
             // 
             // Column3
             // 
-            dataGridViewCellStyle2.Format = "C2";
-            dataGridViewCellStyle2.NullValue = null;
-            this.Column3.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Format = "C2";
+            dataGridViewCellStyle6.NullValue = null;
+            this.Column3.DefaultCellStyle = dataGridViewCellStyle6;
             this.Column3.HeaderText = "IMPORTE";
             this.Column3.Name = "Column3";
             this.Column3.ReadOnly = true;
@@ -585,12 +588,54 @@
             this.lblTipo.Text = "BOLETA DE VENTA";
             this.lblTipo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // btn_Exit
+            // 
+            this.btn_Exit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(70)))), ((int)(((byte)(66)))));
+            this.btn_Exit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Exit.ForeColor = System.Drawing.Color.White;
+            this.btn_Exit.Location = new System.Drawing.Point(820, 5);
+            this.btn_Exit.Name = "btn_Exit";
+            this.btn_Exit.Size = new System.Drawing.Size(33, 23);
+            this.btn_Exit.TabIndex = 34;
+            this.btn_Exit.Text = "X";
+            this.btn_Exit.UseVisualStyleBackColor = false;
+            this.btn_Exit.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // btn_minimo
+            // 
+            this.btn_minimo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(49)))), ((int)(((byte)(63)))));
+            this.btn_minimo.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_minimo.ForeColor = System.Drawing.Color.White;
+            this.btn_minimo.Location = new System.Drawing.Point(781, 5);
+            this.btn_minimo.Name = "btn_minimo";
+            this.btn_minimo.Size = new System.Drawing.Size(33, 23);
+            this.btn_minimo.TabIndex = 35;
+            this.btn_minimo.Text = "_";
+            this.btn_minimo.UseVisualStyleBackColor = false;
+            this.btn_minimo.Click += new System.EventHandler(this.btn_minimo_Click);
+            // 
+            // btn_Max
+            // 
+            this.btn_Max.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(49)))), ((int)(((byte)(63)))));
+            this.btn_Max.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Max.ForeColor = System.Drawing.Color.White;
+            this.btn_Max.Location = new System.Drawing.Point(742, 5);
+            this.btn_Max.Name = "btn_Max";
+            this.btn_Max.Size = new System.Drawing.Size(33, 23);
+            this.btn_Max.TabIndex = 36;
+            this.btn_Max.Text = "+";
+            this.btn_Max.UseVisualStyleBackColor = false;
+            this.btn_Max.Click += new System.EventHandler(this.btn_Max_Click);
+            // 
             // FrmFactura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(52)))), ((int)(((byte)(52)))));
             this.ClientSize = new System.Drawing.Size(856, 470);
+            this.Controls.Add(this.btn_Max);
+            this.Controls.Add(this.btn_minimo);
+            this.Controls.Add(this.btn_Exit);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnEliminarItem);
             this.Controls.Add(this.btnRegistrarVenta);
@@ -673,5 +718,8 @@
         private System.Windows.Forms.Label lblNroCorrelativo;
         private System.Windows.Forms.Label lblSerie;
         private System.Windows.Forms.Label lblTipo;
+        private System.Windows.Forms.Button btn_Exit;
+        private System.Windows.Forms.Button btn_minimo;
+        private System.Windows.Forms.Button btn_Max;
     }
 }

@@ -15,5 +15,21 @@ namespace Capa_de_Presentacion
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btn_minimo_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void btn_Max_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Maximized;
+
+        }
     }
 }

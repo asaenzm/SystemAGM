@@ -41,6 +41,9 @@
             this.label5 = new System.Windows.Forms.Label();
             this.txtUser = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.btn_Max = new System.Windows.Forms.Button();
+            this.btn_minimo = new System.Windows.Forms.Button();
+            this.btn_Exit = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -55,7 +58,7 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Location = new System.Drawing.Point(12, 55);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(464, 100);
             this.groupBox1.TabIndex = 0;
@@ -128,7 +131,7 @@
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.groupBox2.Location = new System.Drawing.Point(482, 12);
+            this.groupBox2.Location = new System.Drawing.Point(482, 55);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(464, 100);
             this.groupBox2.TabIndex = 1;
@@ -182,12 +185,54 @@
             this.label4.TabIndex = 0;
             this.label4.Text = "Usuario";
             // 
+            // btn_Max
+            // 
+            this.btn_Max.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(49)))), ((int)(((byte)(63)))));
+            this.btn_Max.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Max.ForeColor = System.Drawing.Color.White;
+            this.btn_Max.Location = new System.Drawing.Point(835, 12);
+            this.btn_Max.Name = "btn_Max";
+            this.btn_Max.Size = new System.Drawing.Size(33, 23);
+            this.btn_Max.TabIndex = 42;
+            this.btn_Max.Text = "+";
+            this.btn_Max.UseVisualStyleBackColor = false;
+            this.btn_Max.Click += new System.EventHandler(this.btn_Max_Click);
+            // 
+            // btn_minimo
+            // 
+            this.btn_minimo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(49)))), ((int)(((byte)(63)))));
+            this.btn_minimo.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_minimo.ForeColor = System.Drawing.Color.White;
+            this.btn_minimo.Location = new System.Drawing.Point(874, 12);
+            this.btn_minimo.Name = "btn_minimo";
+            this.btn_minimo.Size = new System.Drawing.Size(33, 23);
+            this.btn_minimo.TabIndex = 41;
+            this.btn_minimo.Text = "_";
+            this.btn_minimo.UseVisualStyleBackColor = false;
+            this.btn_minimo.Click += new System.EventHandler(this.btn_minimo_Click);
+            // 
+            // btn_Exit
+            // 
+            this.btn_Exit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(70)))), ((int)(((byte)(66)))));
+            this.btn_Exit.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Exit.ForeColor = System.Drawing.Color.White;
+            this.btn_Exit.Location = new System.Drawing.Point(913, 12);
+            this.btn_Exit.Name = "btn_Exit";
+            this.btn_Exit.Size = new System.Drawing.Size(33, 23);
+            this.btn_Exit.TabIndex = 40;
+            this.btn_Exit.Text = "X";
+            this.btn_Exit.UseVisualStyleBackColor = false;
+            this.btn_Exit.Click += new System.EventHandler(this.btn_Exit_Click);
+            // 
             // FrmRegistrarUsuarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(52)))), ((int)(((byte)(52)))));
-            this.ClientSize = new System.Drawing.Size(956, 120);
+            this.ClientSize = new System.Drawing.Size(956, 172);
+            this.Controls.Add(this.btn_Max);
+            this.Controls.Add(this.btn_minimo);
+            this.Controls.Add(this.btn_Exit);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.DoubleBuffered = true;
@@ -220,5 +265,8 @@
         public System.Windows.Forms.Label lblEmpleado;
         public System.Windows.Forms.Label lblDni;
         public System.Windows.Forms.Label lblCargo;
+        private System.Windows.Forms.Button btn_Max;
+        private System.Windows.Forms.Button btn_minimo;
+        private System.Windows.Forms.Button btn_Exit;
     }
 }
